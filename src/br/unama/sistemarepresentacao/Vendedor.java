@@ -47,7 +47,7 @@ public class Vendedor {
         this.contato = contato;
     }
 
-    public int getMatricula() {
+    public int getMatricula(){
         return matricula;
     }
 
